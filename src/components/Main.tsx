@@ -42,6 +42,7 @@ function Main() {
               href="./../assets/files/CV_Richard_Rietdijk.pdf"
               target="_blank"
               rel="noreferrer"
+              download
             >
               CV
             </a>
