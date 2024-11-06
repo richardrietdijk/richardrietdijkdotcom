@@ -26,17 +26,7 @@ const labelsFirst = [
 
 const labelsSecond = ["Python", "SQL"];
 
-const labelsThird = [
-  "Azure",
-  "AWS",
-  "SQL",
-  "Snowflake",
-  "Airflow",
-  "Docker",
-  "Git",
-  "Databricks",
-  "linux",
-];
+const labelsThird = ["Azure", "AWS", "SQL", "Docker", "Git", "linux"];
 
 function Expertise() {
   return (
@@ -64,13 +54,11 @@ function Expertise() {
 
           <div className="skill">
             <FontAwesomeIcon icon={faPython} size="3x" />
-            <h3>Data Science & Machine Learning</h3>
+            <h3>Data Science</h3>
             <p>
-              I possess experience in developing predictive models and deploying
-              machine learning algorithms. My educational background, including
-              an advanced Statistics and Data Science Micromasters at MIT, along
-              with hands-on projects, enables me to extract insights and create
-              data-driven solutions.
+              My educational background, including an advanced Statistics and
+              Data Science Micromasters at MIT, along with hands-on projects,
+              enables me to extract insights and create data-driven solutions.
             </p>
             <div className="flex-chips">
               <span className="chip-title">Tech stack:</span>
@@ -85,7 +73,7 @@ function Expertise() {
             <h3>Data Engineering & Cloud Solutions</h3>
             <p>
               From setting up data pipelines to managing ETL processes, I ensure
-              seamless data flow and integration to support BI and analytics. I
+              seamless data flow and integration to support analytics. I
               specialize in using cloud solutions like Azure and AWS to
               architect robust systems for data management and reporting.
             </p>
