@@ -39,10 +39,9 @@ function Main() {
               <EmailIcon />
             </a>
             <a
-              href="./../assets/files/CV_Richard_Rietdijk.pdf"
+              href="https://drive.google.com/file/d/1smRqjHKIWdqecD0wnwzmv1j9EmavVQmz/view?usp=sharing"
               target="_blank"
               rel="noreferrer"
-              download
             >
               CV
             </a>
