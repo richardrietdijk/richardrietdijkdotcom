@@ -38,13 +38,13 @@ function Main() {
             >
               <EmailIcon />
             </a>
-            <a
+            {/* <a
               href="https://drive.google.com/file/d/1smRqjHKIWdqecD0wnwzmv1j9EmavVQmz/view?usp=sharing"
               target="_blank"
               rel="noreferrer"
             >
               CV
-            </a>
+            </a> */}
           </div>
           <h1>Richard Rietdijk</h1>
           <p>Data Scientist</p>

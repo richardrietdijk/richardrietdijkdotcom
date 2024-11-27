@@ -25,7 +25,7 @@ function Timeline() {
             iconStyle={{ background: "#5000ca", color: "rgb(39, 40, 34)" }}
             icon={<FontAwesomeIcon icon={faApple} />}
           >
-            <h3 className="vertical-timeline-element-title">Undisclosed</h3>
+            <h3 className="vertical-timeline-element-title">*Undisclosed*</h3>
             <h4 className="vertical-timeline-element-subtitle">Apple Inc.</h4>
             <p>
               Voice Processing, Python Automation, Workflow Optimization,
@@ -38,21 +38,19 @@ function Timeline() {
           </VerticalTimelineElement>
           <VerticalTimelineElement
             className="vertical-timeline-element--work"
-            date="2024 - Present"
+            date="Pursuing, Expected 2026"
             iconStyle={{ background: "#5000ca", color: "rgb(39, 40, 34)" }}
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
             <h3 className="vertical-timeline-element-title">
-              μMaster of Science (μM.S.), Statictics & Data Science
+              Master of Science (M.S.), Data Science
             </h3>
-            <h4 className="vertical-timeline-element-subtitle">Pasadena, CA</h4>
+            <h4 className="vertical-timeline-element-subtitle">
+              Georgia Institute of Technology - Atlanta, Georgia
+            </h4>
             <p>
-              Undertaking this program in preparation for a remote part-time
-              M.S. in Data Science, commencing in 2025.
-            </p>
-            <p>
-              Relevant Coursework: Probability, Statistics, Machine Learning,
-              Deep Learning, Data Analysis
+              Relevant Coursework: Analytics, Artificial Intelligence, Deep
+              Learning, Machine Learning, Natural Language Processing
             </p>
           </VerticalTimelineElement>
           <VerticalTimelineElement
@@ -65,7 +63,7 @@ function Timeline() {
               Bachelor of Science (B.S.), Computer Science
             </h3>
             <h4 className="vertical-timeline-element-subtitle">Pasadena, CA</h4>
-            <p>Summa Cum Laude | GPA: 4.00, President’s List</p>
+            <p>Summa Cum Laude, President’s List</p>
             <p>
               Relevant Coursework: Python, SQL, Calculus, Descriptive
               Statistics, Statistical Inference, Data Structures & Algorithms,
@@ -78,7 +76,7 @@ function Timeline() {
               <cite>Ugochukwu Chinonso Okolie, PhD</cite>
             </p>
           </VerticalTimelineElement>
-          <VerticalTimelineElement
+          {/* <VerticalTimelineElement
             className="vertical-timeline-element--work"
             date="2020 - 2022"
             iconStyle={{ background: "#5000ca", color: "rgb(39, 40, 34)" }}
@@ -89,7 +87,7 @@ function Timeline() {
             </h3>
             <h4 className="vertical-timeline-element-subtitle">Pasadena, CA</h4>
             <p>High Honors | GPA: 4.00, President’s List</p>
-          </VerticalTimelineElement>
+          </VerticalTimelineElement> */}
 
           <VerticalTimelineElement
             className="vertical-timeline-element--work"
@@ -98,7 +96,7 @@ function Timeline() {
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
             <h3 className="vertical-timeline-element-title">
-              Full Stack Development Consultant
+              Software Engineer, Consultant
             </h3>
             <h4 className="vertical-timeline-element-subtitle">SALT</h4>
             <p>
@@ -108,9 +106,15 @@ function Timeline() {
                 "It is rare to find such a broad set of talents in one person."
               </blockquote>
               <cite>Tom Moran, Team Lead @ Lumen</cite>
+              <br />
+              <blockquote>
+                "Richard is a skilled programmer and a valuable asset in any
+                software development team."
+              </blockquote>
+              <cite>Marcus Hammarberg, Team Lead @ SALT</cite>
             </p>
           </VerticalTimelineElement>
-          <VerticalTimelineElement
+          {/* <VerticalTimelineElement
             className="vertical-timeline-element--work"
             date="2020"
             iconStyle={{ background: "#5000ca", color: "rgb(39, 40, 34)" }}
@@ -130,7 +134,7 @@ function Timeline() {
               </blockquote>
               <cite>Marcus Hammarberg, Team Lead @ SALT</cite>
             </p>
-          </VerticalTimelineElement>
+          </VerticalTimelineElement> */}
           <VerticalTimelineElement
             className="vertical-timeline-element--work"
             date="2016 - 2017"
@@ -144,7 +148,7 @@ function Timeline() {
             }
           >
             <h3 className="vertical-timeline-element-title">
-              Data Analyst & Localization QA
+              Data Analyst, Localization QA
             </h3>
             <h4 className="vertical-timeline-element-subtitle">SEGA Europe</h4>
             <p>
