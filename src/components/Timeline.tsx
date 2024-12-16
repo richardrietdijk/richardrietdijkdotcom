@@ -28,7 +28,7 @@ function Timeline() {
             <h3 className="vertical-timeline-element-title">*Undisclosed*</h3>
             <h4 className="vertical-timeline-element-subtitle">Apple Inc.</h4>
             <p>
-              Voice Processing, Python Automation, Workflow Optimization,
+              Voice Data Processing, Python Automation, Workflow Optimization,
               Cross-Functional Collaboration
               <br />
               <br />
