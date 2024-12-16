@@ -35,6 +35,7 @@ const labelsSecond = [
   "Scikit-Learn",
   "Supervised Learning",
   "Unsupervised Learning",
+  "MLOps"
 ];
 
 const labelsThird = [
@@ -42,13 +43,15 @@ const labelsThird = [
   "AWS",
   "SQL",
   "Docker",
+  "Kubernetes",
   "Git",
   "linux",
   "ETL",
   "pySpark",
+  "Databricks",
   "Data Pipelines",
   "Cloud Solutions",
-  "Big Data",
+  "Big Data"
 ];
 
 function Expertise() {
@@ -82,7 +85,7 @@ function Expertise() {
             <p>
               Through my academic training and hands-on projects in data
               science, I am proficient in building machine learning models, from
-              data preprocessing to model deployment. I have a deep
+              data preprocessing to model deployment (MLOps). I have a deep
               understanding of machine learning algorithms and statistical
               techniques that enable me to solve complex problems.
             </p>
