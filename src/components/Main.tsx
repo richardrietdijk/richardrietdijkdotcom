@@ -11,7 +11,7 @@ function Main() {
       <div className="about-section">
         <div className="image-wrapper">
           <img
-            src="https://media.licdn.com/dms/image/v2/D4E03AQHCwZ3ASdIl5A/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1692348340304?e=1736380800&v=beta&t=cdy7zdMKyUdJGMvthhcAd9PSBX7WtdjgLfTDYrgPHKA"
+            src="../assets/images/profile.jpeg"
             alt="Avatar"
           />
         </div>
