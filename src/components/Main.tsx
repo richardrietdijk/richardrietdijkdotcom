@@ -11,7 +11,7 @@ function Main() {
       <div className="about-section">
         <div className="image-wrapper">
           <img
-            src="../assets/images/profile.jpeg"
+            src="https://i.postimg.cc/Kv7r7H6k/profile.jpg"
             alt="Avatar"
           />
         </div>
