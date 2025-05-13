@@ -21,6 +21,22 @@ function Timeline() {
             className="vertical-timeline-element--work"
             contentStyle={{ background: "white", color: "rgb(39, 40, 34)" }}
             contentArrowStyle={{ borderRight: "7px solid  white" }}
+            date="2025 - present"
+            iconStyle={{ background: "#5000ca", color: "rgb(39, 40, 34)" }}
+            icon={<FontAwesomeIcon icon={faBriefcase} />}
+          >
+            <h3 className="vertical-timeline-element-title">Principal Data Analyst / BI</h3>
+            <h4 className="vertical-timeline-element-subtitle">RDC</h4>
+            <p>
+                Lead the development of modernising Information Services, Implement KPI and financial dashboards, optimize ETL pipelines
+              <br />
+              <br />
+            </p>
+          </VerticalTimelineElement>
+          <VerticalTimelineElement
+            className="vertical-timeline-element--work"
+            contentStyle={{ background: "white", color: "rgb(39, 40, 34)" }}
+            contentArrowStyle={{ borderRight: "7px solid  white" }}
             date="2016 - present"
             iconStyle={{ background: "#5000ca", color: "rgb(39, 40, 34)" }}
             icon={<FontAwesomeIcon icon={faApple} />}
@@ -53,6 +69,23 @@ function Timeline() {
               Learning, Machine Learning, Natural Language Processing
             </p>
           </VerticalTimelineElement>
+                    <VerticalTimelineElement
+          className="vertical-timeline-element--work"
+          contentStyle={{ background: "white", color: "rgb(39, 40, 34)" }}
+          contentArrowStyle={{ borderRight: "7px solid  white" }}
+          date="2024 - 2025"
+          iconStyle={{ background: "#5000ca", color: "rgb(39, 40, 34)" }}
+          icon={<FontAwesomeIcon icon={faBriefcase} />}
+        >
+          <h3 className="vertical-timeline-element-title">Global Master of Business Administration (MBA)</h3>
+          <h4 className="vertical-timeline-element-subtitle">Universidad Isabel I - Madrid, Spain</h4>
+          <p>
+            Global MBA with dual specializations in Big Data & Business Intelligence and Project Management. 
+
+            <br />
+            <br />
+          </p>
+        </VerticalTimelineElement>
           <VerticalTimelineElement
             className="vertical-timeline-element--work"
             date="2022 - 2024"
