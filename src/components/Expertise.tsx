@@ -41,11 +41,12 @@ const labelsSecond = [
 const labelsThird = [
   "Azure",
   "AWS",
+  "Fabric",
   "SQL",
   "Docker",
   "Kubernetes",
   "Git",
-  "linux",
+  "Linux",
   "ETL",
   "pySpark",
   "Databricks",
