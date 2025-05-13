@@ -28,7 +28,7 @@ function Timeline() {
             <h3 className="vertical-timeline-element-title">Principal Data Analyst / BI</h3>
             <h4 className="vertical-timeline-element-subtitle">RDC</h4>
             <p>
-                Lead the development of modernising Information Services, Implement KPI and financial dashboards, optimize ETL pipelines
+                Lead the development of modernising Information Services, Implement KPI and financial dashboards, Build and optimize ETL pipelines
               <br />
               <br />
             </p>
