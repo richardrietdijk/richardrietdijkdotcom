@@ -47,7 +47,7 @@ function Main() {
             </a> */}
           </div>
           <h1>Richard Rietdijk</h1>
-          <p>Principal Data Analyst | Data Scientist | Data Engineer | 8+ years of experience at tech companies like Apple & SEGA</p>
+          <p>Data Professional | 8+ years of experience at tech companies like Apple & SEGA</p>
 
           <div className="mobile_social_icons">
             <a
