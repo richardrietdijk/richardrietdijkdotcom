@@ -28,7 +28,7 @@ function Timeline() {
             <h3 className="vertical-timeline-element-title">Principal Data Analyst / BI</h3>
             <h4 className="vertical-timeline-element-subtitle">RDC</h4>
             <p>
-                Lead the development of modernising Information Services, Implement KPI and financial dashboards, Build and optimize ETL pipelines
+                Led the development of RDC’s next-generation data and analytics platform—spanning ETL optimization, unified data catalog creation, embedded Power BI, Azure OpenAI integration, and internal AI adoption.
               <br />
               <br />
             </p>
@@ -54,19 +54,18 @@ function Timeline() {
           </VerticalTimelineElement>
           <VerticalTimelineElement
             className="vertical-timeline-element--work"
-            date="Pursuing, Expected 2026"
+            date="Pursuing, Expected 2027"
             iconStyle={{ background: "#5000ca", color: "rgb(39, 40, 34)" }}
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
             <h3 className="vertical-timeline-element-title">
-              Master of Science (M.S.), Data Science
+              Master of Science (M.S.), Artificial Intelligence
             </h3>
             <h4 className="vertical-timeline-element-subtitle">
-              Georgia Institute of Technology - Atlanta, Georgia
+              Open Universiteit - Amsterdam, Netherlands
             </h4>
             <p>
-              Relevant Coursework: Analytics, Artificial Intelligence, Deep
-              Learning, Machine Learning, Natural Language Processing
+              A Master’s in Artificial Intelligence focused on developing skilled AI professionals who can design innovative, secure, and privacy-aware AI solutions for real-world applications across sectors.
             </p>
           </VerticalTimelineElement>
                     <VerticalTimelineElement
