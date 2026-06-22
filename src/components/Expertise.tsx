@@ -2,10 +2,10 @@ import React from "react";
 import "@fortawesome/free-regular-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import {
-  faReact,
-  faDocker,
+  // faReact,
+  // faDocker,
   faPython,
-  faRProject,
+  // faRProject,
   faAws,
 } from "@fortawesome/free-brands-svg-icons";
 import Chip from "@mui/material/Chip";
