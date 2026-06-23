@@ -46,7 +46,7 @@ function Contact() {
     //   setEmail('');
     //   setMessage('');
     // }
-  };
+  // };
 
   return (
     <div id="contact">
