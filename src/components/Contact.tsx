@@ -56,7 +56,8 @@ function Contact() {
           <p>
             Got a project waiting to be realized? Let's collaborate and make it
             happen!
-            <p>
+            </p>
+          <p>
               Email me at:{" "}
               <a
                 href="mailto:info@richardrietdijk.com"
@@ -65,7 +66,7 @@ function Contact() {
                 info@richardrietdijk.com
               </a>
             </p>
-          </p>
+         
           {/* <Box
             ref={form}
             component="form"
